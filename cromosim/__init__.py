@@ -4,6 +4,9 @@
 #
 # License: GPL
 
+# Modified (slightly):
+#    Marcin Piekarczyk <mpiekarczyk@agh.edu.pl>
+
 name = "cromosim"
 
 import numpy as np
