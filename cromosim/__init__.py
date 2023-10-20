@@ -7,7 +7,7 @@
 name = "cromosim"
 
 import numpy as np
-import scipy as sp
+import numpy as sp      # import scipy as sp
 import sys
 import random
 import matplotlib
