@@ -1,8 +1,8 @@
 # cromosim
 
 CROMOSIM is a Python Library for Crowd Motion Simulation. 
-```diff
--Code forked from genuine version!
+```json
+Code forked from genuine version!
 ```
 - **Website:** http://www.cromosim.fr
 - **Source code:** https://github.com/sylvain-faure/cromosim
